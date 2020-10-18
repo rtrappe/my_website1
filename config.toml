@@ -1,4 +1,4 @@
 theme = "hugo-theme-air"
-baseURL = "http://example.org/"
+baseURL = "httpa://peaceful-kowalevski.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
